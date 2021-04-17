@@ -20,7 +20,8 @@
 
 <p style="text-align: center;"><a href="https://www.amazon.com/">Click Here</a> to go to my favorite site</p>
 
-<body bgcolor = "$bg-blue-light">
+#f1f8ff, $bg-blue-light
+
 
 
 
