@@ -8,3 +8,5 @@
 </html>
 
 <h1 style="text-align: center;">My name is Omar Ahmed</h1>
+
+<center><img src="IMG-2860" width="265" height="266" align="BOTTOM" /></center><hr />
