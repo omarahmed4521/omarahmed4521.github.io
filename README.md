@@ -12,6 +12,7 @@
 
 
 <p><strong>About Me</strong></p>
-h3 style="text-align: center;">WMy name is Omar Ahmed and I am a freshman at the University of Texas at Austin. I am from Spring,TX and some of my favorite hobbies include playing video games, baking, and playing basketball</h3>
+
+<h3 style="text-align: center;">WMy name is Omar Ahmed and I am a freshman at the University of Texas at Austin. I am from Spring,TX and some of my favorite hobbies include playing video games, baking, and playing basketball</h3>
 
 
