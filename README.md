@@ -1,5 +1,3 @@
-# omarahmed4521.github.io
-
 
 <h1 style="text-align: center;">My Name is Omar Ahmed</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
