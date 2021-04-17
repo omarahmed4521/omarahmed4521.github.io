@@ -7,6 +7,6 @@
 </body>
 </html>
 
-<h1 style="text-align: center;">My name is Omar Ahmed</h1>
+<h1 style="text-align: center;">My Name is Omar Ahmed, Welcome to My Site</h1>
 
-<center><img src="https://i.kym-cdn.com/entries/icons/facebook/000/023/098/Screen_Shot_2017-05-30_at_2.23.51_PM.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
+
