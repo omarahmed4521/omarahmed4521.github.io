@@ -18,6 +18,8 @@
 
 <h2 style="text-align: center;">My Favorite Website</h2>
 
+<p style="text-align: center;"><a href="https://www.amazon.com/">Click Here</a> to go to my favorite site</p>
+
 
 
 
