@@ -11,5 +11,7 @@
 <h2 style="text-align: center;">Welcome to my site!</h2>
 
 
+<p><strong>About Me</strong></p>
+
 
 
