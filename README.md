@@ -20,6 +20,9 @@
 
 <p style="text-align: center;"><a href="https://www.amazon.com/">Click Here</a> to go to my favorite site</p>
 
+<div class="bg-blue-light mb-2">
+  .text-gray-dark on .bg-blue-light
+</div>
 
 
 
