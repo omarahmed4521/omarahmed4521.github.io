@@ -8,7 +8,7 @@
 
 <h1 style="text-align: center;">My Name is Omar Ahmed</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
-<center><img src="https://user-images.githubusercontent.com/82729911/115128692-0d825e80-9fa5-11eb-80e6-2a92067a92db.jpg" width="265" height="266" align="BOTTOM" /></center><hr />
+<center><img src="https://user-images.githubusercontent.com/82729911/115128692-0d825e80-9fa5-11eb-80e6-2a92067a92db.jpg" width="300" height="266" align="BOTTOM" /></center><hr />
 
 
 
