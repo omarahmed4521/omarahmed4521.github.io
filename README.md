@@ -6,3 +6,5 @@
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
+
+<h1 style="text-align: center;">My name is Omar Ahmed</h1>
