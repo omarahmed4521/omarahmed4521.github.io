@@ -1,6 +1,11 @@
+<html>
+<body>
+<body bgcolor = **#2432BE** >
+
 <!DOCTYPE html>
 <html>
 <body>
+
 <h1>Hello World</h1>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
@@ -21,7 +26,7 @@
 
 <p style="text-align: center;"><a href="https://www.amazon.com/">Click Here</a> to go to my favorite site</p>
 
-<body bgcolor = "LightSkyBlue">
+
   
 
 
