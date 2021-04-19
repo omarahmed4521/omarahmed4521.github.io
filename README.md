@@ -16,7 +16,7 @@
 
 
 
-<body bgcolor="#ffdce0"> 
+<body bgcolor="#FFE6E6"> 
 
 
 
