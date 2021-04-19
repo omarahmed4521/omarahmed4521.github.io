@@ -1,5 +1,3 @@
-
-<body bgcolor="#f1f8fft"> 
   
 <h1 style="text-align: center;">My Name is Omar Ahmed</h1>
 <h2 style="text-align: center;">Welcome to my site!</h2>
@@ -15,6 +13,10 @@
 <h2 style="text-align: center;">My Favorite Website</h2>
 
 <p style="text-align: center;"><a href="https://www.amazon.com/">Click Here</a> to go to my favorite site</p>
+
+
+
+<body bgcolor="#ffdce0"> 
 
 
 
